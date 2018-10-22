@@ -12,6 +12,7 @@ var mapLatLng = {
     lat: 43.0801792, 
     lng: -70.8016885 
 };
+
 function initMap() {
     // Make a new map in the map div and set its center to the coordinates passed from localStorage
     map = new google.maps.Map(document.getElementById('map'), {
