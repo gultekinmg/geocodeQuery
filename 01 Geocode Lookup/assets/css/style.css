@@ -1,0 +1,54 @@
+body{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bolder;
+}
+.fa-google{
+    display: inline;
+}
+
+.fa-terminal{
+    display: inline;
+}
+
+.info-display{
+    margin: 5px;
+}
+
+#page-header {
+    text-align: center;
+}
+
+#address-form{
+    margin-top: 10px;
+}
+
+#blank{
+    margin-right: 15px;
+    display: inline;
+}
+
+#address-input{
+    display: inline;
+}
+
+#button-section{
+    margin-top: 15px;
+}
+
+#wrapper{
+    text-align: center;
+    height: 600px;
+    /* margin: auto; */
+}
+#map{
+    height: 100%;
+}
+
+#results-panel{
+    margin-top: 10px;
+}
+
