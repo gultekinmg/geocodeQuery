@@ -9,8 +9,8 @@ var googleAPI = {
 var map;
 
 var mapLatLng = {
-    lat: 43.0801792, 
-    lng: -70.8016885 
+    lat: 41.0130179, 
+    lng: 29.0846885 
 };
 
 function initMap() {
